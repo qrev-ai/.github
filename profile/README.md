@@ -16,3 +16,10 @@ the smallest and biggest teams in the world to scale their sales.
 We believe that Agentic software can enable 100x productivity and a create a new era of 
 Software. 
 
+## 🤝 Contribute
+
+We're an open-source-loving community, and contributions are always welcome! Whether it's by fixing bugs, enhancing documentation, proposing new features, or spreading the word, every contribution counts.
+
+## 💬 Community
+
+📢 Join our [Slack community](https://join.slack.com/t/qrev/shared_invite/zt-2gsc6omvb-L5bLaBubluDEdK5ZB133dg).
