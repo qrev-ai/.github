@@ -8,6 +8,12 @@
 	<a href="https://github.com/qrev-ai">Contribute</a>
 </h3>
 
+<img
+  className="block dark:hidden"
+  src="/images/qrev-arch-light.svg"
+  alt="Hero Light"
+/>
+
 </br>
 </br>
 
