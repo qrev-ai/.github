@@ -10,7 +10,7 @@
 
 <div style="text-align: center;">
   <img
-    width="350"  
+    width="512"  
     class="block dark:hidden"
     src="/images/qrev-arch-light.svg"
     alt="Architecture"
