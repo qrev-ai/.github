@@ -9,6 +9,7 @@
 </h3>
 
 <img
+  width="250"	
   className="block dark:hidden"
   src="/images/qrev-arch-light.svg"
   alt="Hero Light"
@@ -29,3 +30,4 @@ We're an open-source-loving community, and contributions are always welcome! Whe
 ## 💬 Community
 
 📢 Join our [Slack community](https://join.slack.com/t/qrev/shared_invite/zt-2gsc6omvb-L5bLaBubluDEdK5ZB133dg).
+
