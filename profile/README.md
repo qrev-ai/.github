@@ -10,7 +10,7 @@
 
 <div style="text-align: center;">
   <img
-    width="750"  
+    width="1028"  
 	style="display: block; margin-left: auto; margin-right: auto;"
     class="block dark:hidden"
     src="/images/Qai-Structure.png"
