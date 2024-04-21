@@ -13,7 +13,7 @@
     width="750"  
 	style="display: block; margin-left: auto; margin-right: auto;"
     class="block dark:hidden"
-    src="/images/qrev-arch-light.svg"
+    src="/images/Qai-Structure.png"
     alt="Architecture"
   />
 </div>
@@ -29,6 +29,10 @@ Software.
 ## 🤝 Contribute
 
 We're an open-source-loving community, and contributions are always welcome! Whether it's by fixing bugs, enhancing documentation, proposing new features, or spreading the word, every contribution counts.
+
+## 🌱 Open to Innovation
+We released the app publicly in an early stage to also open up for creative innovation that a community brings.
+So please bare with the imperfections but we are open to ideas and promise to adapt as quickly as possible.
 
 ## 💬 Community
 
